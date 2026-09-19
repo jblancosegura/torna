@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://torna</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>NPCs</title>
+    <link>https://torna/npcs/</link>
+    <guid>https://torna/npcs/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 19 Sep 2026 20:01:29 GMT</pubDate>
+  </item><item>
+    <title>Templates</title>
+    <link>https://torna/templates/</link>
+    <guid>https://torna/templates/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 19 Sep 2026 20:01:29 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://torna/tags/</link>
+    <guid>https://torna/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 19 Sep 2026 20:01:29 GMT</pubDate>
+  </item><item>
+    <title>_index</title>
+    <link>https://torna/</link>
+    <guid>https://torna/</guid>
+    <description><![CDATA[ TORNA &amp; DRAGONS Make a note of something, create a link, or try the Importer! When you’re ready, delete this note and make the vault your own. ]]></description>
+    <pubDate>Sat, 19 Sep 2026 19:51:25 GMT</pubDate>
+  </item><item>
+    <title>Squall</title>
+    <link>https://torna/npcs/squall</link>
+    <guid>https://torna/npcs/squall</guid>
+    <description><![CDATA[  NombreSquallRolLenadorFaccionLenadoresUbicacionEl Fuerte MaiaRelacionSemi-amigable — timido y erratico por su aficion por los hongos alucinogenosUltimo avistamientotbdNotasLos demas lenadores no hablan mucho con el. ]]></description>
+    <pubDate>Sat, 19 Sep 2026 19:39:23 GMT</pubDate>
+  </item><item>
+    <title>NPC</title>
+    <link>https://torna/templates/npc</link>
+    <guid>https://torna/templates/npc</guid>
+    <description><![CDATA[  NombreMirabel ThornwickRolInnkeeper / informantFaccionThe Ashen CircleUbicacionThe Gilded Hare, AshenmereRelacionFriendly — helped the party in Session 3Ultimo avistamientoSession 7 — warned party about the raidsNotasKnows the location of the old vault. ]]></description>
+    <pubDate>Sat, 19 Sep 2026 19:39:23 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
