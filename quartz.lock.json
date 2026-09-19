@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "alias-redirects": {
+      "source": "github:quartz-community/alias-redirects",
+      "resolved": "https://github.com/quartz-community/alias-redirects.git",
+      "commit": "96411dcff962b50609754cacc88c33b7cbd581df",
+      "installedAt": "2026-09-19T20:20:23.097Z"
+    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
