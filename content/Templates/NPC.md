@@ -1,6 +1,7 @@
 
 | **Nombre**              | Mirabel Thornwick                                     |
 | ----------------------- | ----------------------------------------------------- |
+| **Raza**                | Human                                                 |
 | **Rol**                 | Innkeeper / informant                                 |
 | **Faccion**             | The Ashen Circle                                      |
 | **Ubicacion**           | The Gilded Hare, Ashenmere                            |
