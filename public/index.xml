@@ -10,37 +10,49 @@
     <link>https://torna/torna/public/npcs/</link>
     <guid>https://torna/torna/public/npcs/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 04 Oct 2026 19:48:39 GMT</pubDate>
+    <pubDate>Sun, 04 Oct 2026 20:00:09 GMT</pubDate>
   </item><item>
     <title>Party Members</title>
     <link>https://torna/torna/public/party-members/</link>
     <guid>https://torna/torna/public/party-members/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 04 Oct 2026 19:48:39 GMT</pubDate>
+    <pubDate>Sun, 04 Oct 2026 20:00:09 GMT</pubDate>
   </item><item>
     <title>Sesiones</title>
     <link>https://torna/torna/public/sesiones/</link>
     <guid>https://torna/torna/public/sesiones/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 04 Oct 2026 19:48:39 GMT</pubDate>
+    <pubDate>Sun, 04 Oct 2026 20:00:09 GMT</pubDate>
   </item><item>
     <title>Templates</title>
     <link>https://torna/torna/public/templates/</link>
     <guid>https://torna/torna/public/templates/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 04 Oct 2026 19:48:39 GMT</pubDate>
+    <pubDate>Sun, 04 Oct 2026 20:00:09 GMT</pubDate>
   </item><item>
     <title>Ubicaciones</title>
     <link>https://torna/torna/public/ubicaciones/</link>
     <guid>https://torna/torna/public/ubicaciones/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 04 Oct 2026 19:48:39 GMT</pubDate>
+    <pubDate>Sun, 04 Oct 2026 20:00:09 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://torna/torna/public/tags/</link>
     <guid>https://torna/torna/public/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 04 Oct 2026 19:48:39 GMT</pubDate>
+    <pubDate>Sun, 04 Oct 2026 20:00:09 GMT</pubDate>
+  </item><item>
+    <title>El Arbusto Espinoso</title>
+    <link>https://torna/torna/public/ubicaciones/el-arbusto-espinoso</link>
+    <guid>https://torna/torna/public/ubicaciones/el-arbusto-espinoso</guid>
+    <description><![CDATA[  NombreEl Arbusto EspinosoTipoPueblitoRegionDescripcionUn pequeño pueblo de paso para los aventureros rumbo a el Fuerte MaiaLugares RelevantesTabernaNPCs RelevantesN / ASe conecta conFuerte Maia a no mucha distanciaUn bosque cercano donde lobos tenían su madrigueraNotasLugar donde pasamos toda la Se... ]]></description>
+    <pubDate>Sun, 04 Oct 2026 19:59:58 GMT</pubDate>
+  </item><item>
+    <title>El Nuevo Mundo</title>
+    <link>https://torna/torna/public/ubicaciones/el-nuevo-mundo</link>
+    <guid>https://torna/torna/public/ubicaciones/el-nuevo-mundo</guid>
+    <description><![CDATA[  NombreEl Nuevo MundoTipoContinenteDescripcionContinente recientemente descubierto (a los ojos de la gente de otros continentes) la cual atrae a muchos aventurerosLugares RelevantesEl Arbusto Espinoso, Fuerte MaiaNotasTodas las sesiones hasta el momento han sido en este continente. ]]></description>
+    <pubDate>Sun, 04 Oct 2026 19:59:58 GMT</pubDate>
   </item><item>
     <title>Kora</title>
     <link>https://torna/torna/public/npcs/kora</link>
@@ -52,18 +64,6 @@
     <link>https://torna/torna/public/npcs/tobo</link>
     <guid>https://torna/torna/public/npcs/tobo</guid>
     <description><![CDATA[  NombreToboRazaHumanoRolGuía / Cuidador de NutriasFaccionN/AUbicacionCerca de la aldea donde desembocamos en El Nuevo MundoRelacionAmigable - Dispuesto a guiarnos a través de la jungla, en especial por haberle ayudadoUltimo avistamientoSesión 2. ]]></description>
-    <pubDate>Sun, 04 Oct 2026 19:40:32 GMT</pubDate>
-  </item><item>
-    <title>1. Marzo 20, 2026</title>
-    <link>https://torna/torna/public/sesiones/1.-marzo-20,-2026</link>
-    <guid>https://torna/torna/public/sesiones/1.-marzo-20,-2026</guid>
-    <description><![CDATA[ Party Members Presentes Ariadne Johann Libra VII Nyra Xyra Recap Empezamos los cuatro en un barco rumbo a El Nuevo Mundo. ]]></description>
-    <pubDate>Sun, 04 Oct 2026 19:40:32 GMT</pubDate>
-  </item><item>
-    <title>2. Mayo 8, 2026</title>
-    <link>https://torna/torna/public/sesiones/2.-mayo-8,-2026</link>
-    <guid>https://torna/torna/public/sesiones/2.-mayo-8,-2026</guid>
-    <description><![CDATA[ Party Members Presentes Ariadne Johann Libra VII Nyra Xyra Recap Despertamos en casa de Kora y Tobo, quienes nos agradecieron por haberlos ayudados con sus nutrias (en la sesión pasada). ]]></description>
     <pubDate>Sun, 04 Oct 2026 19:40:32 GMT</pubDate>
   </item>
     </channel>
