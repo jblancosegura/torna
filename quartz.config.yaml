@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: torna
+  baseUrl: torna/torna/public
   ignorePatterns:
     - private
     - templates
