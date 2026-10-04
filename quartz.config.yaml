@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: torna/public
+  baseUrl: torna/torna/public
   ignorePatterns:
     - private
     - templates
@@ -138,7 +138,7 @@ plugins:
       priority: 50
       display: all
   - source: "@quartz-community/alias-redirects"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/content-index"
     enabled: true
     options:
