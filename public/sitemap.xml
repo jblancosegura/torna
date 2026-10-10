@@ -8,8 +8,14 @@
     <loc>https://torna/torna/public/npcs/squall</loc>
     <lastmod>2026-09-19T19:39:23.000Z</lastmod>
   </url><url>
+    <loc>https://torna/torna/public/npcs/suma-nymas</loc>
+    <lastmod>2026-10-10T19:43:57.000Z</lastmod>
+  </url><url>
     <loc>https://torna/torna/public/npcs/tobo</loc>
     <lastmod>2026-10-04T19:40:32.000Z</lastmod>
+  </url><url>
+    <loc>https://torna/torna/public/npcs/vrye</loc>
+    <lastmod>2026-10-10T19:43:57.000Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/party-members/ariadne</loc>
     <lastmod>2026-09-19T23:32:35.000Z</lastmod>
@@ -32,8 +38,11 @@
     <loc>https://torna/torna/public/sesiones/2.-mayo-8,-2026</loc>
     <lastmod>2026-10-04T19:40:32.000Z</lastmod>
   </url><url>
+    <loc>https://torna/torna/public/sesiones/3.-julio-25,-2026</loc>
+    <lastmod>2026-10-10T19:43:57.000Z</lastmod>
+  </url><url>
     <loc>https://torna/torna/public/sesiones/5.-septiembre-18,-2026</loc>
-    <lastmod>2026-09-19T23:32:35.000Z</lastmod>
+    <lastmod>2026-10-10T19:43:57.000Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/templates/npc</loc>
     <lastmod>2026-10-03T22:39:14.000Z</lastmod>
@@ -57,20 +66,20 @@
     <lastmod>2026-09-19T23:32:35.000Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/npcs/</loc>
-    <lastmod>2026-10-04T20:08:10.347Z</lastmod>
+    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/party-members/</loc>
-    <lastmod>2026-10-04T20:08:10.347Z</lastmod>
+    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/sesiones/</loc>
-    <lastmod>2026-10-04T20:08:10.347Z</lastmod>
+    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/templates/</loc>
-    <lastmod>2026-10-04T20:08:10.347Z</lastmod>
+    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/ubicaciones/</loc>
-    <lastmod>2026-10-04T20:08:10.347Z</lastmod>
+    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/tags/</loc>
-    <lastmod>2026-10-04T20:08:10.347Z</lastmod>
+    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
   </url></urlset>
