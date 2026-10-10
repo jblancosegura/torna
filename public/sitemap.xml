@@ -1,4 +1,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://torna/torna/public/npcs/aziz</loc>
+    <lastmod>2026-10-10T20:14:59.000Z</lastmod>
+  </url><url>
+    <loc>https://torna/torna/public/npcs/cabeza-de-barril</loc>
+    <lastmod>2026-10-10T20:14:59.000Z</lastmod>
+  </url><url>
+    <loc>https://torna/torna/public/npcs/calzoni</loc>
+    <lastmod>2026-10-10T20:14:59.000Z</lastmod>
+  </url><url>
     <loc>https://torna/torna/public/npcs/kora</loc>
     <lastmod>2026-10-04T19:40:32.000Z</lastmod>
   </url><url>
@@ -6,7 +15,7 @@
     <lastmod>2026-10-03T22:39:14.000Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/npcs/squall</loc>
-    <lastmod>2026-09-19T19:39:23.000Z</lastmod>
+    <lastmod>2026-10-10T20:14:59.000Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/npcs/suma-nymas</loc>
     <lastmod>2026-10-10T19:43:57.000Z</lastmod>
@@ -41,6 +50,9 @@
     <loc>https://torna/torna/public/sesiones/3.-julio-25,-2026</loc>
     <lastmod>2026-10-10T19:43:57.000Z</lastmod>
   </url><url>
+    <loc>https://torna/torna/public/sesiones/4.-agosto-21,-2026</loc>
+    <lastmod>2026-10-10T20:14:59.000Z</lastmod>
+  </url><url>
     <loc>https://torna/torna/public/sesiones/5.-septiembre-18,-2026</loc>
     <lastmod>2026-10-10T19:43:57.000Z</lastmod>
   </url><url>
@@ -59,27 +71,30 @@
     <loc>https://torna/torna/public/ubicaciones/el-nuevo-mundo</loc>
     <lastmod>2026-10-04T19:59:58.000Z</lastmod>
   </url><url>
+    <loc>https://torna/torna/public/ubicaciones/fristad</loc>
+    <lastmod>2026-10-10T20:14:59.000Z</lastmod>
+  </url><url>
     <loc>https://torna/torna/public/ubicaciones/fuerte-maia</loc>
-    <lastmod>2026-09-19T23:32:35.000Z</lastmod>
+    <lastmod>2026-10-10T20:14:59.000Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/</loc>
     <lastmod>2026-09-19T23:32:35.000Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/npcs/</loc>
-    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
+    <lastmod>2026-10-10T20:15:15.495Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/party-members/</loc>
-    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
+    <lastmod>2026-10-10T20:15:15.495Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/sesiones/</loc>
-    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
+    <lastmod>2026-10-10T20:15:15.495Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/templates/</loc>
-    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
+    <lastmod>2026-10-10T20:15:15.495Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/ubicaciones/</loc>
-    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
+    <lastmod>2026-10-10T20:15:15.495Z</lastmod>
   </url><url>
     <loc>https://torna/torna/public/tags/</loc>
-    <lastmod>2026-10-10T19:44:25.710Z</lastmod>
+    <lastmod>2026-10-10T20:15:15.495Z</lastmod>
   </url></urlset>
