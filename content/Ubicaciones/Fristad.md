@@ -1,0 +1,11 @@
+
+| **Nombre**             | Fristad                                                                                                                                                                                         |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tipo**               | Bosque                                                                                                                                                                                          |
+| **Region**             |                                                                                                                                                                                                 |
+| **Descripcion**        | Un bosque donde                                                                                                                                                                                 |
+| **Lugares Relevantes** | Estanque de                                                                                                                                                                                     |
+| **NPCs Relevantes**    |                                                                                                                                                                                                 |
+| **Se conecta con**     | [[Fuerte Maia]] (8 horas)                                                                                                                                                                       |
+| **Notas**              | Aqui fue la mision principal de la sesion [[4. Agosto 21, 2026]] donde fuimos a rescatar a los lenadores.<br><br>Tambien pasamos por aqui durante la sesion [[5. Septiembre 18, 2026]] de paso. |
+|                        |                                                                                                                                                                                                 |
